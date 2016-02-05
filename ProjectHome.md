@@ -1,0 +1,1 @@
+Se pretende poder interactuar desde un dispositivo android con un videoportero para poder ver la imagen de la camaara, escuchar y hablar con la persona que llama y abrir la puerta desde el dispositivo móvil.
